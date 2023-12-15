@@ -1,0 +1,30 @@
+{
+  "name": "nameste",
+  "version": "1.0.0",
+  "description": "this is my react attempt by ruchi",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raumc/Nameste.git"
+  },
+  "author": "ruchi jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raumc/Nameste/issues"
+  },
+  "homepage": "https://github.com/raumc/Nameste#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browsersList":[ 
+    "last 2 version"
+  ]
+}
